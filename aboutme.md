@@ -11,7 +11,6 @@ css: "/css/aboutme.css"
   This is <b>Nikhil Pandey</b>. I come here to put my internal rambling to an order. 
 </p> 
 
-
 <p class="about-text">
   <span class="fa fa-briefcase about-icon"></span>
   I am a consultant who helps organisation adopt the new age AI/ML technologies. Currently, I am working in GenAI, specifically, the information retrieval part.   
