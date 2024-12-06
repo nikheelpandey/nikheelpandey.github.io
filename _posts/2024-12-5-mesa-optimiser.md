@@ -31,6 +31,8 @@ Optimizers are crucial in enabling models to extract meaningful patterns from da
 
 A **Mesa Optimizer** is an emergent phenomenon in advanced machine learning systems. It refers to a situation where a model (e.g., a neural network) develops an internal optimization process as a subgoal to achieve the objectives set during its training. 
 
+An example would be **Natural Selection**. Natural selection is an optimization process that optimizes for reproductive fitness. Natural selection produced humans, who are themselves optimizers. Humans are therefore mesa-optimizers of natural selection.
+
 This concept can arise in the following way:  
 
 1. **Base Optimizer**: The initial optimization algorithm (e.g., gradient descent) is used to train the model.  
