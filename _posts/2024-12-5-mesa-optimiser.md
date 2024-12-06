@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "Mesa Optimizers and AI Risk"  
+title: "Mesa Optimizers and the AI Risk"  
 description: An exploration of Mesa Optimizers and their implications for AI Safety  
 image: img/me_trek.jpg 
 date: 2024-12-5  
