@@ -2,8 +2,8 @@
 layout: post  
 title: "Mesa Optimizers and AI Risk"  
 description: An exploration of Mesa Optimizers and their implications for AI Safety  
-# image: /files/blog/gibbs/front.jpg  
-date: 2024-12-10  
+image: img/me_trek.jpg 
+date: 2024-12-5  
 categories: post  
 nav-short: true  
 show-avatar: false  
